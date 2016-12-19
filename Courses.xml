@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "Courses.xsl"?> 
+<Courses>
+    <CourseList>       
+        <CourseEnrolled>
+            <Course id="1">
+                <CourseNumber>IST 625</CourseNumber>
+                <CourseName>Enterprise Risk MAnagement</CourseName>
+                <Instructor>Prof.Frank Marullo</Instructor>
+            </Course>
+            <Course id="2">
+                <CourseNumber>IST 614</CourseNumber>
+                <CourseName>Management of Information Professionals</CourseName>
+                <Instructor>Prof. Erik Anderson</Instructor>
+            </Course>
+            <Course id="3">
+                <CourseNumber>IST 625</CourseNumber>
+                <CourseName>Enterprise Risk MAnagement</CourseName>
+                <Instructor>Prof.Frank Marullo</Instructor>
+            </Course>
+            <Course id="4">
+                <CourseNumber>IST 614</CourseNumber>
+                <CourseName>Management of Information Professionals</CourseName>
+                <Instructor>Prof. Erik Anderson</Instructor>
+            </Course>
+        </CourseEnrolled>
+    </CourseList>
+  
+      <DegreeEnrolled>
+        <Degree id="1">
+            <DegreeID>MSIM_0905</DegreeID>
+            <Name>Masters in Science: Information Management</Name>
+            <CreditsCompleted>9</CreditsCompleted>
+            <CreditsEnrolledFor>6</CreditsEnrolledFor>
+            <CreditsRemaining>6</CreditsRemaining>
+            <ExpectedCompletionDate>May 2017</ExpectedCompletionDate>
+        </Degree>
+        <Degree id="2">
+            <DegreeID>CAS_1517</DegreeID>
+            <Name>CAS:Data Science</Name>
+            <CreditsCompleted>9</CreditsCompleted>
+            <CreditsEnrolledFor>6</CreditsEnrolledFor>
+            <CreditsRemaining>3</CreditsRemaining>
+            <ExpectedCompletionDate>May 2017</ExpectedCompletionDate>
+        </Degree>
+    </DegreeEnrolled>   
+       
+</Courses>
