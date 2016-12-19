@@ -21,8 +21,8 @@ tell processor to process the entire document with this template.
          <body> 
             <h2>Students</h2> 
 				
-            <table border = "1"> 
-               <tr bgcolor = "#9acd32"> 
+            <table border = "0"> 
+               <tr bgcolor = "#f2b611"> 
                   <th>Roll No</th> 
                   <th>First Name</th> 
                   <th>Last Name</th> 

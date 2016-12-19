@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "Notifications.xsl"?>
+
+  <Notifications>
+    <AnnouncementList>
+      <Announcement>
+        <Title>Immediate Attention: Submission of Health Insurance Card</Title>
+        <PostedBy>SU,Health Services</PostedBy>
+        <Body>
+                  All the students are hereby notified to submit a copy of their health insurance card
+          by 12/20/2016. Kindly do the needful.
+        </Body>
+        <Date>12/11/2016</Date>
+        <Time>9:30 PM</Time>
+      </Announcement>
+      <Announcement>
+        <Title>Immediate Attention: Submission of Health Insurance Card</Title>
+        <PostedBy>SU,Health Services</PostedBy>
+        <Body>
+          All the students are hereby notified to submit a copy of their health insurance card
+          by 12/20/2016. Kindly do the needful.
+        </Body>
+        <Date>12/11/2016</Date>
+        <Time>9:30 PM</Time>
+      </Announcement>
+    </AnnouncementList>
+    
+    
+    <UpcomingEvents>
+      <Event>
+        <EventName>Resume Workshop for Masters Students</EventName>
+        <EventDate>12/11/2016</EventDate>
+        <EventType>Workshop</EventType>
+        <EventSupervisor>
+          <Name>Kathy Benjamin</Name>
+          <Title>Program Coordinator</Title>
+          <EmailID>kabenjam@syr.edu</EmailID>
+          <PhoneNo.>315-395-3630</PhoneNo.>
+        </EventSupervisor>
+      </Event>
+      <Event>
+        <EventName>Resume Workshop for Masters Students</EventName>
+        <EventDate>12/11/2016</EventDate>
+        <EventType>Workshop</EventType>
+        <EventSupervisor>
+          <Name>Kathy Benjamin</Name>
+          <Title>Program Coordinator</Title>
+          <EmailID>kabenjam@syr.edu</EmailID>
+          <PhoneNo.>315-395-3630</PhoneNo.>
+        </EventSupervisor>
+      </Event>
+    </UpcomingEvents>
+    <UpcomingDeadlines>
+      <UpcomingDeadline>
+      <Name>Quiz-5</Name>
+      <Course>IST 558 Tech in Web Content Management</Course>
+      <Deadline>12/11/2016</Deadline>
+      </UpcomingDeadline>
+      <UpcomingDeadline>
+        <Name>Quiz-5</Name>
+        <Course>IST 558 Tech in Web Content Management</Course>
+        <Deadline>12/11/2016</Deadline>
+      </UpcomingDeadline>
+    </UpcomingDeadlines>
+  </Notifications>
